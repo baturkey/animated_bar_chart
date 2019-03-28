@@ -6,6 +6,8 @@ This repository provides an example of how to created a bar chart that
 shows how the relative rank of things changes over time. The data
 chosen for this example is box office revenue over three weeks.
 
+[See it in Codepen](https://codepen.io/baturkey/pen/vPoOOx)
+
 ## CSS
 
 ![Heights](heights.png)
