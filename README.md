@@ -129,10 +129,10 @@ chart.transition()
 Movies that are new in the current week are placed at their rank
 
 ```
-    // Set the position of new elements
-    const elements = chart.enter()
-                        .append("div")
-                        .style("top", elementTop);
+// Set the position of new elements
+const elements = chart.enter()
+                    .append("div")
+                    .style("top", elementTop);
 ```
 
 ### Remaining and Entering movies
