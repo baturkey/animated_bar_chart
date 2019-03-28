@@ -1,0 +1,19 @@
+.chart {
+    background: #EEE;
+    position: relative;
+    height: 450px;
+    width: 600px;
+}
+
+.chart > div {
+    position: absolute;
+    width: 100%;
+    border: thin solid black;
+    padding-bottom: 15px;
+}
+
+.bar {
+    padding: 5px 0;
+    background-color: steelblue;
+    top: 25px;
+}
