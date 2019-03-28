@@ -112,7 +112,7 @@ chart.exit()
      .remove();
 ```
 
-### Remaning movies
+### Remaining movies
 
 Movies that are in both the previous week and the current week are
 animated to the current week's rank
