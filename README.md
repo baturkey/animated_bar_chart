@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository provides an example of how to created a bar chart that
+This repository provides an example of how to create a bar chart that
 shows how the relative rank of things changes over time. The data
 chosen for this example is box office revenue over three weeks.
 
@@ -12,7 +12,7 @@ chosen for this example is box office revenue over three weeks.
 
 ![Heights](heights.png)
 
-I wanted to animated the movies moving up and down the chart as their
+I wanted to animate the movies moving up and down the chart as their
 relative ranks changed. The `top` CSS property works for this purpose
 because it is an [animatable property](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
 
