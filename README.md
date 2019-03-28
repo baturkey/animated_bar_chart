@@ -33,7 +33,7 @@ This results in the following layout:
   - .chart (position: relative)
     - div (position: absolute) (dynamically created)
     - div (position: absolute) (dynamically created)
-    - ...
+    - . . .
 
 ## Data
 
